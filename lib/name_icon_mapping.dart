@@ -2101,5 +2101,5 @@ const Map<String, IconData> faIconNameMapping = {
   'brands zhihu': FontAwesomeIcons.zhihu,
   'solid home': FontAwesomeIcons.house,
   'solid cog': FontAwesomeIcons.gear,
-  'car-alt': FontAwesomeIcons.car,
+  'solid car-alt': FontAwesomeIcons.car,
 };
